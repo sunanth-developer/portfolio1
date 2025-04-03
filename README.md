@@ -22,7 +22,7 @@ A modern, responsive portfolio website built with React.js showcasing my work as
 
 ## Live Demo
 
-Visit the live portfolio at: [Your GitHub Pages URL will be here]
+Visit the live portfolio at: https://sunanth-developer.github.io/portfolio1
 
 ## Getting Started
 
@@ -52,12 +52,12 @@ This project is deployed using GitHub Pages. To deploy your own copy:
 
 1. Fork this repository
 2. Go to Settings > Pages
-3. Select the main branch as the source
+3. Select the gh-pages branch as the source
 4. Save the changes
 
 ## Contact
 
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
-- WhatsApp: [Your WhatsApp]
+- Email: sunanth.samala@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sunanth-samala-818b2b169/
+- GitHub: https://github.com/sunanth-developer
+- WhatsApp: https://wa.me/918883770999
